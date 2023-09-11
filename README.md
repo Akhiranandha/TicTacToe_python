@@ -1,3 +1,5 @@
+This directory contains the source code and the project demonstration video
+
 # TicTacToe_python
 Python program to play TicTacToe
 
